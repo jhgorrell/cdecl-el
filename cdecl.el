@@ -2,10 +2,10 @@
 ;;
 ;; ~/share/emacs/pkg/cdecl/cdecl.el ---
 ;;
-;; $Id: cdecl.el,v 1.1 2011/10/20 06:23:08 harley Exp $
+;; $Id: cdecl.el,v 1.2 2011/10/20 07:00:15 harley Exp $
 ;;
-
 ;;; Commentary:
+;;  URL: http://www.panix.com/~harley/elisp/cdecel.el
 ;;  simple interface to cdecel.
 ;;  http://cdecl.org/
 
