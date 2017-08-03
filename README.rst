@@ -2,12 +2,14 @@
 README
 ==============================
 
-:Author:  harley
-:Version: $Revision: 1.1 $
+:Author:  harley@panix.com
 
-README
-==============================
+A simple emacs interface to "`cdecl <http://cdecl.org/>`_".
 
-a simple emacs interface to "cdecl".
 
-The cdecl program is here: http://cdecl.org/
+LICENSE
+------------------------------
+
+`cdecl <https://github.com/jhgorrell/cdecl-el>`_ is distributed under the 
+`GPL-3.0 <https://www.gnu.org/licenses/gpl-3.0.txt`_ 
+(or any later version).
